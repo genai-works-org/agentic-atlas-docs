@@ -1,0 +1,8 @@
+site_name: GenAI Agentic
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    primary: green
+repo_url: https://github.com/genai-works-org/genai-agentos
+repo_name: genai-works-org/genai-agentos
