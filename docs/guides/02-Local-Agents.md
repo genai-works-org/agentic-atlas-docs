@@ -5,6 +5,8 @@
 A **Local Agent** is an autonomous process that runs directly on your machine or private infrastructure and connects to the Agentic Atlas network through a local or exposed router endpoint.  
 
 Local agents are ideal for:
+
+
 - Rapid development and debugging  
 - Offline or on-premises deployments  
 - Scenarios where you need full control over your data and compute resources  
