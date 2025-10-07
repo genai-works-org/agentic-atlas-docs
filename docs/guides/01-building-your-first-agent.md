@@ -1,3 +1,7 @@
+---
+title: Build your first Agent
+---
+
 # Build your first Agent
 
 As an example, we will create our first agent that translates text, after we set up our environment. Let's do the following steps!
